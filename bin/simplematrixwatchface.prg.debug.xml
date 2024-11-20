@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/kosmik/repos/simplematrixwatchface/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="1" lineNum="5" parent="globals/simplematrixwatchfaceApp" pc="268435460" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="2" lineNum="26" parent="globals" pc="268435472" symbol="getApp"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="2" lineNum="27" parent="globals" pc="268435482" symbol="getApp"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435493" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="4" lineNum="7" parent="globals/simplematrixwatchfaceView" pc="268435513" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="5" lineNum="12" parent="globals/simplematrixwatchfaceApp" pc="268435525" symbol="onStart"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="6" lineNum="20" parent="globals/simplematrixwatchfaceApp" pc="268435528" symbol="getInitialView"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="6" lineNum="21" parent="globals/simplematrixwatchfaceApp" pc="268435530" symbol="getInitialView"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="7" lineNum="7" parent="globals/simplematrixwatchfaceApp" pc="268435560" symbol="initialize"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="7" lineNum="8" parent="globals/simplematrixwatchfaceApp" pc="268435562" symbol="initialize"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceApp.mc" id="8" lineNum="16" parent="globals/simplematrixwatchfaceApp" pc="268435575" symbol="onStop"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="11" lineNum="29" parent="globals/simplematrixwatchfaceView" pc="268435578" symbol="onLayout"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="11" lineNum="30" parent="globals/simplematrixwatchfaceView" pc="268435580" symbol="onLayout"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="13" lineNum="24" parent="globals/simplematrixwatchfaceView" pc="268435614" symbol="initialize"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="13" lineNum="25" parent="globals/simplematrixwatchfaceView" pc="268435616" symbol="initialize"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="15" lineNum="40" parent="globals/simplematrixwatchfaceView" pc="268435629" symbol="onUpdate"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="15" lineNum="41" parent="globals/simplematrixwatchfaceView" pc="268435632" symbol="onUpdate"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="15" lineNum="42" parent="globals/simplematrixwatchfaceView" pc="268435658" symbol="onUpdate"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="15" lineNum="44" parent="globals/simplematrixwatchfaceView" pc="268435670" symbol="onUpdate"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="15" lineNum="47" parent="globals/simplematrixwatchfaceView" pc="268435742" symbol="onUpdate"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="15" lineNum="50" parent="globals/simplematrixwatchfaceView" pc="268435818" symbol="onUpdate"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/source/simplematrixwatchfaceView.mc" id="15" lineNum="55" parent="globals/simplematrixwatchfaceView" pc="268435874" symbol="onUpdate"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="18" parent="globals/Rez/Layouts" pc="268435895" symbol="WatchFace"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="19" parent="globals/Rez/Layouts" pc="268435906" symbol="WatchFace"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268435939" symbol="WatchFace"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="21" parent="globals/Rez/Layouts" pc="268435972" symbol="WatchFace"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="23" parent="globals/Rez/Layouts" pc="268436050" symbol="WatchFace"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="25" parent="globals/Rez/Layouts" pc="268436128" symbol="WatchFace"/>
+<entry filename="/Users/kosmik/repos/simplematrixwatchface/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="27" parent="globals/Rez/Layouts" pc="268436206" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="12" symbol="matrixTypeDisplay100px"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="6" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="5" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8" object="true" symbol="simplematrixwatchfaceView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="10" symbol="months"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="13" symbol="matrixTypeDisplay32px"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="7" object="true" symbol="simplematrixwatchfaceApp"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="11" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="9" module="true" symbol="Layouts"/>
+<entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435613" name="dc" stackId="1" startPc="268435578"/>
+<entry arg="true" endPc="268435894" name="dc" stackId="1" startPc="268435629"/>
+<entry endPc="268435893" name="date" stackId="2" startPc="268435632"/>
+<entry endPc="268435893" name="systemStats" stackId="3" startPc="268435632"/>
+<entry arg="true" endPc="268436225" name="dc" stackId="1" startPc="268435895"/>
+<entry endPc="268436225" name="local_Rez_Fonts_matrixTypeDisplay32px" stackId="2" startPc="268435906"/>
+<entry endPc="268436225" name="local_Rez_Fonts_matrixTypeDisplay100px" stackId="3" startPc="268435906"/>
+<entry endPc="268436225" name="rez_cmp_local_text_Date" stackId="4" startPc="268435906"/>
+<entry endPc="268436225" name="rez_cmp_local_text_HoursAndMinutes" stackId="5" startPc="268435906"/>
+<entry endPc="268436225" name="rez_cmp_local_text_Battery" stackId="6" startPc="268435906"/>
+</localVars>
+<deviceInfo deviceVersion="35026752466eceaff46011f2f33580ace85b3091" partNumber="006-B4426-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="matrixTypeDisplay100px"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="matrixTypeDisplay32px"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/simplematrixwatchfaceApp" offset="134" parentId="globals" symbolId="simplematrixwatchfaceApp" type="class"/>
+<dataEntry label="globals/Rez" offset="205" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/simplematrixwatchfaceView" offset="267" parentId="globals" symbolId="simplematrixwatchfaceView" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="374" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="444" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="488" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="simplematrixwatchfaceApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435492" name="getApp" startPc="268435472">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435512" name="&lt;init&gt;" parent="Rez" startPc="268435493">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="simplematrixwatchfaceView" startPc="268435513">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435527" name="onStart" parent="simplematrixwatchfaceApp" startPc="268435525">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435559" name="getInitialView" parent="simplematrixwatchfaceApp" startPc="268435528">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435574" name="initialize" parent="simplematrixwatchfaceApp" startPc="268435560">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435577" name="onStop" parent="simplematrixwatchfaceApp" startPc="268435575">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="simplematrixwatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="simplematrixwatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435613" name="onLayout" parent="simplematrixwatchfaceView" startPc="268435578">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="simplematrixwatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435628" name="initialize" parent="simplematrixwatchfaceView" startPc="268435614">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="simplematrixwatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435894" name="onUpdate" parent="simplematrixwatchfaceView" startPc="268435629">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436225" name="WatchFace" parent="Layouts" startPc="268435895">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
